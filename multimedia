@@ -32,19 +32,19 @@
             <tr>
                 <table border="1" cellpanding="18" cellspacing="1" widht="100">
                 <td align="center">
-                     <img src="c:\xampp\EMMA_web_XRPL1\bromo.jpg" alt="Gunung Bromo" width="315">
+                     <img src="c:\xampp\Edin_web_XRPL3\bromo.jpg" alt="Gunung Bromo" width="315">
                      <h3>Gunung Bromo</h3>
                      <p>Gunung Bromo merupakan salah satu tempat terkenal yang berada di Jawa Timur.</p>
               </td>
 
               <td align="center">
-                  <img src="c:\xampp\EMMA_web_XRPL1\ijen.jpg" alt="kawah ijen" width="315">
+                  <img src="c:\xampp\Edin_web_XRPL3\ijen.jpg" alt="Kawah ijen" width="315">
                   <h3>Kawah Ijen</h3>
                   <p>Kawah Ijen merupakan salah satu tempat wisata terkenal yang berada di Jawa timur.</p>
               </td>
 
               <td align="center">
-                <img src="c:\xampp\EMMA_web_XRPL1\coban.rondo.jpg" alt="Air Terjun Coban" Rondo width="315">
+                <img src="c:\xampp\Edin_web_XRPL3\coban.rondo.jpg" alt="Air Terjun Coban" Rondo width="315">
                 <h3>Coban Rondo</h3>
                 <p>Air terjun Coban Rondo merupakan salah satu tempat wisata terkenal di Jawa Timur.</p>
               </td>
@@ -56,7 +56,7 @@
             <p align="center">Silakan dengarkan musik berikut sambil menikmati informasi wisata Indonesia</p>
 
                 <audio controls>
-                    <source src="" type="audio/mpeg">
+                    <source src="Edin.mp3" type="audio/mpeg">
                 </audio> 
                 </td>
                 </tr>
@@ -66,7 +66,7 @@
                 <P>Silakan melihat video berikut sambil menikmati informasi wisata Indonesia</P>
 
                 <video width="500" controls>
-                    <source src="" type="video/webm">
+                    <source src="Edin.mp4" type="video/webm">
                 </video>
             </td>
         </tr>
